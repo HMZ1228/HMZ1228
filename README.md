@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HMZ1228
 - 👀 I’m interested in dota2
-- 🌱 I’m currently learning how to use chatGPT in real life
+- 🌱 I’m currently learning vibe coding in real life
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
